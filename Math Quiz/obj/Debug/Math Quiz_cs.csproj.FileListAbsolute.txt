@@ -1,0 +1,12 @@
+c:\Users\kempb\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+c:\Users\kempb\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+c:\Users\kempb\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+D:\Github\montymaths\Math Quiz\bin\Debug\Math Quiz.exe.config
+D:\Github\montymaths\Math Quiz\obj\Debug\Math Quiz.exe
+D:\Github\montymaths\Math Quiz\obj\Debug\Math Quiz.pdb
+D:\Github\montymaths\Math Quiz\bin\Debug\Math Quiz.exe
+D:\Github\montymaths\Math Quiz\bin\Debug\Math Quiz.pdb
+D:\Github\montymaths\Math Quiz\obj\Debug\Math Quiz_cs.csprojResolveAssemblyReference.cache
+D:\Github\montymaths\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+D:\Github\montymaths\Math Quiz\obj\Debug\Math Quiz_cs.csproj.GenerateResource.Cache
+D:\Github\montymaths\Math Quiz\obj\Debug\montymaths.Form1.resources
